@@ -1,19 +1,19 @@
 # Curso "Introducción QGIS" (febrero-marzo 2021)
 ## Descripción
 
-Las empresas de todos los sectores están mirando alternativas para su gestión en datos geográficos teniendo en cuenta los presupuestos y mayores capacidades necesarias para la operación y objetivos planteados. Por esa razón toma mucha fuerza una herramienta como Qgis que aporta una gran capacidad y flexibilidad para el trabajo en sistemas de información geográficas.
+Las empresas de todos los sectores están buscando alternativas para su gestión en datos geográficos teniendo en cuenta los presupuestos y mayores capacidades necesarias para la operación y objetivos planteados. Por esa razón toma mucha fuerza una herramienta como QGIS que aporta una gran capacidad y flexibilidad para el trabajo en sistemas de información geográficas.
 
 ## Dirigido a
 
-Geógrafos, ingenieros, profesionales en general, tecnólogos y técnicos relacionados con los Sistemas de Información Geográfica y/o interesados en adquirir conocimientos sobre la herramienta Qgis (ver sección FAQ).
+Geógrafos, ingenieros, profesionales en general, tecnólogos y técnicos relacionados con los Sistemas de Información Geográfica y/o interesados en adquirir conocimientos sobre la herramienta QGIS (ver sección FAQ).
 
 ## Instructor
 
-Germán Carrillo
+Jesús Revelo
 
 [Miembro oficial de QGIS Colombia.](https://qgisusers.co/es/miembros/jesus-revelo/) 
 
-El instructor del curso será Jesús Efraín Revelo. Ingeniero de Sistemas, especialista en Telecomunicaciones y especialista en Geomática. Con experiencia en implementación de sistemas de información geográficas desde el 2013 y desde 2015 implementando Qgis en los procesos de empresas del sector eléctrico. Miembro activo de Qgis Colombia y actualmente hace parte de la junta directiva de Qgis Colombia como coordinador técnico.
+El instructor del curso será Jesús Efraín Revelo. Ingeniero de Sistemas, especialista en Telecomunicaciones y especialista en Geomática. Con experiencia en implementación de sistemas de información geográficas desde el 2013 y desde 2015 implementando QGIS en los procesos de empresas del sector eléctrico. Miembro activo de QGIS Colombia y actualmente hace parte de la junta directiva de QGIS Colombia como coordinador técnico.
 
 ## Sesiones
 
@@ -29,24 +29,24 @@ El instructor del curso será Jesús Efraín Revelo. Ingeniero de Sistemas, espe
 
 ## Contenido
 
-### 1. Qgis es software libre.
+### 1. QGIS es software libre.
 
-### 2. El proyecto Qgis.
+### 2. El proyecto QGIS.
    
    * Versiones
    * Licencia
    * Comunidad
    * Soporte
 
-### 3. Instalación de Qgis.
+### 3. Instalación de QGIS.
    
    * Instalación avanzada
    * Instalación Standalone
    * Instalación en ubuntu
 
-### 4. Entorno de trabajo de Qgis.
+### 4. Entorno de trabajo de QGIS.
    
-### 5. Datos geográficos en Qgis.
+### 5. Datos geográficos en QGIS.
    
 * Vector
 * Raster
