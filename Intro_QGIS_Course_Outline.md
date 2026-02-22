@@ -11,8 +11,6 @@ Geógrafos, ingenieros, profesionales en general, tecnólogos y técnicos relaci
 
 Jesús Revelo
 
-[Miembro oficial de QGIS Colombia.](https://qgisusers.co/es/miembros/jesus-revelo/) 
-
 El instructor del curso será Jesús Efraín Revelo. Ingeniero de Sistemas, especialista en Telecomunicaciones y especialista en Geomática. Con experiencia en implementación de sistemas de información geográficas desde el 2013 y desde 2015 implementando QGIS en los procesos de empresas del sector eléctrico. Miembro activo de QGIS Colombia y actualmente hace parte de la junta directiva de QGIS Colombia como coordinador técnico.
 
 ## Sesiones
